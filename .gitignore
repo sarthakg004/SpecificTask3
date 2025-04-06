@@ -1,0 +1,13 @@
+training_data
+data
+output
+__pycache__
+ldm_output
+ldm_output_small_cosine
+CRAFT-pytorch
+models
+.vscode
+image_generation.ipynb
+evaluation_results
+GAN_output
+GAN_output
