@@ -16,12 +16,7 @@ and as we were provided with a very limited amount of page images, it is not pos
 directly. So my approach include training a WGAN model and a Latent Diffusion Model on word level images and then rendering the 
 entire page word by word using the developed model. Building a model to degrade the page is a relatively easier task 
 and can be done by a CycleGAN model or a pretrained image to image model. My main focus is to develop a model 
-that is able to generate the renaissance font style accuratelyGenerating an entire page image with proper visible text is a difficult task even with good amount of data available 
-and as we were provided with a very limited amount of page images, it is not possible to generate entire pages
-directly. So my approach include training a Latent Diffusion Model on word level images and then rendering the 
-entire page word by word using the developed model. Building a model to degrade the page is a relatively easier task 
-and can be done by a CycleGAN model or a pretrained image to image model. My main focus is to develop a model 
-that is able to generate the renaissance font style accurately
+that is able to generate the renaissance font style accurately.
 
 
 ## GAN Model
